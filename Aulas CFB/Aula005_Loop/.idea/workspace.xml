@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05fe6f46-f0c5-4f57-aab8-166ee71fd9f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/Aula_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_1/src/OlaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/Aula_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_2/src/Aula_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/Aula_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_3/src/Aula_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/Aula_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_4/src/Aula_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/Aula_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_5/src/Aula_5.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2UG7kJk8Q73hhoUtbC2K0GIvs7h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "D:/Desktop/Codigos/Estudo Java/Aula_5_Loop/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05fe6f46-f0c5-4f57-aab8-166ee71fd9f9" name="Changes" comment="" />
+      <created>1692554206033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692554206033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aula_5.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
